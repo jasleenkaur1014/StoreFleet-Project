@@ -1,4 +1,3 @@
-node_modules
+uat.env
 .env
-dist
-build
+node_modules
